@@ -1,8 +1,0 @@
-{
-  "slug": "dgx-spark-locked",
-  "title": "DGX Spark locked copy (sensitivity demo)",
-  "summary": "Same deck, published encrypted \u2014 demonstrates the sensitive-content lane.",
-  "encrypted": true,
-  "published": "2026-09-26",
-  "source_sha256_prefix": "11dd98716b6d"
-}
