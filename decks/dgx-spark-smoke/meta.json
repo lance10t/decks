@@ -1,8 +1,0 @@
-{
-  "slug": "dgx-spark-smoke",
-  "title": "DGX Spark (GB10) for Local LLM Inference",
-  "summary": "Fleet smoke test: Prism deck from Reed's brief, audited by Argus.",
-  "encrypted": false,
-  "published": "2026-09-26",
-  "source_sha256_prefix": "f029086fe9e0"
-}
